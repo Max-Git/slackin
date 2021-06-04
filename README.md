@@ -23,7 +23,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### Azure
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
+![Deploy to Azure](https://aka.ms/deploytoazurebutton)
 
 #### OpenShift
 
